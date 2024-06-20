@@ -1,0 +1,2 @@
+Strings in python are surrounded by either single quotation marks, or double quotation marks.
+https://www.w3schools.com/python/python_strings.asp
